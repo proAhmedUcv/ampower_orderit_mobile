@@ -37,9 +37,9 @@ Clone the source code<br/>
 git clone https://github.com/Ambibuzz/ampower_orderit_mobile.git
 ```
 Then go to cloned directory and open project on android studio or vscode<br/>
-Then checkout to ebuzz branch from terminal window of editor<br/>
+Then checkout to master branch from terminal window of editor<br/>
 ```sh
-git checkout ebuzz
+git checkout master
 ```
 For installing packages<br/>
 ```sh
