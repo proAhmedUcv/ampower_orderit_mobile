@@ -34,7 +34,7 @@ AmPower OrderIT is a powerful app designed to streamline sales order booking for
 ### To run code
 Clone the source code<br/>
 ```sh
-git clone https://github.com/Ambibuzz/ebuzz-Internal.git
+git clone https://github.com/Ambibuzz/ampower_orderit_mobile.git
 ```
 Then go to cloned directory and open project on android studio or vscode<br/>
 Then checkout to ebuzz branch from terminal window of editor<br/>
