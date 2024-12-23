@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/Users/ambibuzzdev/Documents/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/ambibuzzdev/Desktop/Flutter Projects/ampower_orderit_mobile"
+export "FLUTTER_ROOT=C:\Users\HP650G4\AppData\Local\Android\flutter"
+export "FLUTTER_APPLICATION_PATH=C:\Users\HP650G4\StudioProjects\ampower_orderit_mobile"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=1.0.0"
